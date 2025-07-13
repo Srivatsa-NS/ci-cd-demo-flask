@@ -31,3 +31,7 @@ jobs:
       - name: Run unit tests
         run: |
           pytest
+
+      - name: Run flake8
+        run: |
+          flake8
