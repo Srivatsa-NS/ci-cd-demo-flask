@@ -1,3 +1,2 @@
-# CI/CD Demo Flask App
-
-A simple Flask app for learning CI/CD pipelines.
+## Live Endpoint
+This Flask app demonstrates a basic CI/CD setup using GitHub Actions.
